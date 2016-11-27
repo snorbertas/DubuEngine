@@ -14,4 +14,3 @@ I am planning on using DubuEngine for future projects for fun :)
 TODO:
 * MP3 playing/volume control (BASS libray)
 * Organize fonts and sizes
-Those things aren't really finished yet, though they're easy to fix.
